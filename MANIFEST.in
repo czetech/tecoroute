@@ -1,0 +1,3 @@
+include AUTHORS.rst CHANGES.rst CONTRIBUTING.rst LICENSE README.rst
+recursive-include refproj_pyapp/web/static *
+recursive-include refproj_pyapp/web/templates *

@@ -1,0 +1,29 @@
+Metadata-Version: 1.2
+Name: tecoroute
+Version: 0.0.0
+Summary: Python example application and code structure.
+Home-page: https://git.cze.tech/tecoroute
+Author: Petr Czepiec
+Author-email: petr@cze.tech
+Maintainer: Petr Czepiec
+Maintainer-email: petr@cze.tech
+License: BSD
+Download-URL: https://git.cze.tech/tecoroute/-/archive/master/{name}-master.zip
+Project-URL: Bug Tracker, https://git.cze.tech/tecoroute
+Project-URL: Documentation, https://git.cze.tech/tecoroute
+Project-URL: Source Code, https://git.cze.tech/tecoroute
+Description: UNKNOWN
+Keywords: example,czetech,web,www,click,flask
+Platform: posix
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
+Requires-Python: >=3.5
